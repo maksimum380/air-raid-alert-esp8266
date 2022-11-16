@@ -15,9 +15,6 @@
 <b>Схема подключения:</b><br>
 <img src="https://raw.githubusercontent.com/pavel-fomychov/air-raid-alert-esp8266/main/scheme.jpg"><br>
 <br>
-<b>Макет:</b><br>
-<img src="https://raw.githubusercontent.com/pavel-fomychov/air-raid-alert-esp8266/main/miniature.jpg"><br>
-<br>
 📌 Гайд по добавлению плат esp8266 в Arduino IDE:<br>
 https://arduinomaster.ru/platy-arduino/proshivka-esp8266-cherez-arduino-ide/<br>
 <br>
