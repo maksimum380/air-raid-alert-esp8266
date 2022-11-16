@@ -178,7 +178,7 @@ boolean ConnectAPI() {
   return true;
 }
 
-// Активация буззера
+// Активация бузера
 void buzzer() {
   if (startAlarm && !alarmFlag) {
     for (uint32_t i = 0; i < 3; i++) {
