@@ -88,7 +88,7 @@ void setup() {
 void loop() {
   if (WiFi.status() == WL_CONNECTED) {
     ConnectAPI();
-    delay(1000);
+    delay(2000);
   } else {
     ConnectWiFi();
   }
